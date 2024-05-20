@@ -161,3 +161,5 @@ cython_debug/
 
 articles.db
 l1.ipynb
+.DS_store
+.idea
